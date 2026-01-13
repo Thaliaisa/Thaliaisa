@@ -8,7 +8,7 @@ Currently pursuing a **Bachelor’s degree in Systems Analysis and Development**
 
 ## 😸 Django Girls Project
 
-🔗 **[ArtDiary.blog](https://thalia1.pythonanywhere.com/)**
+🔗 [ArtDiary.blog](https://thalia1.pythonanywhere.com/)
 
 ##
 <div style="display: inline_block"><br>
